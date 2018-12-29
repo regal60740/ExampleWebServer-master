@@ -1,0 +1,11 @@
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\obj\Debug\ExampleClient.csprojAssemblyReference.cache
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\obj\Debug\ExampleClient.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleClient.exe.config
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleClient.exe
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleClient.pdb
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleWebServer.exe
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleWebServer.pdb
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\bin\Debug\ExampleWebServer.exe.config
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\obj\Debug\ExampleClient.csproj.CopyComplete
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\obj\Debug\ExampleClient.exe
+C:\Users\Joe\Downloads\ExampleWebServer-master\ExampleClient\obj\Debug\ExampleClient.pdb

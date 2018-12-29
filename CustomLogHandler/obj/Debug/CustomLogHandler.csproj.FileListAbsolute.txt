@@ -1,0 +1,6 @@
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\bin\Debug\CustomLogHandler.dll
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\bin\Debug\CustomLogHandler.pdb
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\obj\Debug\CustomLogHandler.csprojAssemblyReference.cache
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\obj\Debug\CustomLogHandler.csproj.CoreCompileInputs.cache
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\obj\Debug\CustomLogHandler.dll
+C:\Users\Joe\Downloads\ExampleWebServer-master\CustomLogHandler\obj\Debug\CustomLogHandler.pdb
